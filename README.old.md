@@ -1,0 +1,1 @@
+# component-side-effects
